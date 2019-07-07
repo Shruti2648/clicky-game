@@ -1,6 +1,9 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+// import './App.css';
+import NavBar from './components/navbar';
+import Instructions from './components/instructions';
+import Images-Container from './components/images-container';
+import images from "./images.json";
 
 function App() {
   return (
